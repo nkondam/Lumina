@@ -1,0 +1,16 @@
+{
+    "name": "habit-tracker",
+    "version": "1.0.0",
+    "description": "Mobile-style habit tracker showcasing Lumina framework",
+    "lumina": {
+        "framework": "../../",
+        "frontend": {
+            "dir": "frontend",
+            "entry": "index.html"
+        },
+        "backend": {
+            "dir": "backend",
+            "mainClass": "app.HabitTrackerApp"
+        }
+    }
+}

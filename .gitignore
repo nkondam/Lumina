@@ -1,0 +1,26 @@
+# Build outputs
+build/
+sdk-runtime/build/
+sdk-runtime/.gradle/
+ui-template/dist/
+ui-template/node_modules/
+cli/node_modules/
+examples/**/node_modules/
+examples/**/.gradle/
+examples/**/build/
+examples/**/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GraalVM
+*.o
+*.so
+*.dylib
+*.dll

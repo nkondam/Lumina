@@ -1,0 +1,16 @@
+{
+    "name": "lumina-showcase",
+    "version": "1.0.0",
+    "description": "Comprehensive Lumina framework showcase",
+    "lumina": {
+        "framework": "../..",
+        "frontend": {
+            "dir": "frontend",
+            "entry": "index.html"
+        },
+        "backend": {
+            "dir": "backend",
+            "mainClass": "app.ShowcaseApp"
+        }
+    }
+}
