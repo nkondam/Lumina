@@ -1,0 +1,22 @@
+title: Lumina
+description: Build native desktop apps with web frontends and JVM backends.
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
+url: ""
+baseurl: "/Lumina"
+
+aux_links:
+  GitHub: https://github.com/nkondam/Lumina
+
+nav_order_default: 0
+
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+exclude:
+  - "*.gradle"
+  - "*.java"
+  - node_modules/
+  - build/

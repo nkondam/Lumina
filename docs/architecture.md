@@ -1,3 +1,9 @@
+---
+layout: default
+title: Architecture
+nav_order: 2
+---
+
 # Lumina Architecture
 
 This document provides an in-depth look at Lumina's architecture and how its components work together.

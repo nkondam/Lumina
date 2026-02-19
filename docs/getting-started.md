@@ -1,3 +1,9 @@
+---
+layout: default
+title: Getting Started
+nav_order: 1
+---
+
 # Getting Started with Lumina
 
 This guide will walk you through creating your first Lumina desktop application from scratch.

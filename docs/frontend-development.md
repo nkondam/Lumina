@@ -1,3 +1,9 @@
+---
+layout: default
+title: Frontend Development
+nav_order: 3
+---
+
 # Frontend Development Guide
 
 This guide covers patterns and best practices for developing the TypeScript/JavaScript frontend in Lumina applications.

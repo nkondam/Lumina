@@ -15,12 +15,24 @@ examples/**/dist/
 *.iml
 .vscode/
 
+# Dist
+dist/
+
 # OS
 .DS_Store
 Thumbs.db
+
+# Claude Code
+.claude/settings.local.json
 
 # GraalVM
 *.o
 *.so
 *.dylib
 *.dll
+
+# Jekyll (docs)
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile.lock

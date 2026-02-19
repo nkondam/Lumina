@@ -1,3 +1,9 @@
+---
+layout: default
+title: Backend Development
+nav_order: 4
+---
+
 # Backend Development Guide
 
 This guide covers advanced patterns and best practices for developing the Java backend in Lumina applications.

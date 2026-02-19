@@ -1,3 +1,9 @@
+---
+layout: default
+title: Security
+nav_order: 6
+---
+
 # Security Considerations
 
 This document outlines security considerations for Lumina applications.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Deployment
+nav_order: 5
+---
+
 # Deployment Guide
 
 This guide covers how to package and distribute your Lumina application.
